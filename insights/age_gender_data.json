@@ -1,0 +1,72 @@
+{
+  "<30_F": {
+    "age_group": "<30",
+    "gender": "Female",
+    "prevalence": 74.54545454545455,
+    "total_patients": 55,
+    "cvd_cases": 41
+  },
+  "<30_M": {
+    "age_group": "<30",
+    "gender": "Male",
+    "prevalence": 75.60975609756098,
+    "total_patients": 41,
+    "cvd_cases": 31
+  },
+  "30-40_F": {
+    "age_group": "30-40",
+    "gender": "Female",
+    "prevalence": 88.0,
+    "total_patients": 200,
+    "cvd_cases": 176
+  },
+  "30-40_M": {
+    "age_group": "30-40",
+    "gender": "Male",
+    "prevalence": 85.04672897196261,
+    "total_patients": 214,
+    "cvd_cases": 182
+  },
+  "40-50_F": {
+    "age_group": "40-50",
+    "gender": "Female",
+    "prevalence": 91.62303664921467,
+    "total_patients": 191,
+    "cvd_cases": 175
+  },
+  "40-50_M": {
+    "age_group": "40-50",
+    "gender": "Male",
+    "prevalence": 87.25490196078431,
+    "total_patients": 204,
+    "cvd_cases": 178
+  },
+  "50-60_F": {
+    "age_group": "50-60",
+    "gender": "Female",
+    "prevalence": 90.35532994923858,
+    "total_patients": 197,
+    "cvd_cases": 178
+  },
+  "50-60_M": {
+    "age_group": "50-60",
+    "gender": "Male",
+    "prevalence": 92.57142857142857,
+    "total_patients": 175,
+    "cvd_cases": 162
+  },
+  "60+_F": {
+    "age_group": "60+",
+    "gender": "Female",
+    "prevalence": 71.42857142857143,
+    "total_patients": 91,
+    "cvd_cases": 65
+  },
+  "60+_M": {
+    "age_group": "60+",
+    "gender": "Male",
+    "prevalence": 68.67469879518072,
+    "total_patients": 83,
+    "cvd_cases": 57
+  }
+}

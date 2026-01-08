@@ -1,0 +1,53 @@
+{
+  "dataset_info": {
+    "total_patients": 1529,
+    "cvd_prevalence": "85.6%",
+    "study_note": "CAIR-CVD 2025 Bangladesh Dataset"
+  },
+  "demographics": {
+    "most_affected_age_group": "50-60",
+    "most_affected_gender": "Female",
+    "male_prevalence": "84.9%",
+    "female_prevalence": "86.3%"
+  },
+  "top_risk_factors": [
+    {
+      "name": "Family History of CVD",
+      "cvd_prevalence": "50.9%",
+      "healthy_prevalence": "37.7%",
+      "difference": "13.2%"
+    },
+    {
+      "name": "Low Physical Activity",
+      "cvd_prevalence": "33.5%",
+      "healthy_prevalence": "25.9%",
+      "difference": "7.6%"
+    },
+    {
+      "name": "High Cholesterol (\u2265240)",
+      "cvd_prevalence": "29.1%",
+      "healthy_prevalence": "23.6%",
+      "difference": "5.5%"
+    }
+  ],
+  "lifestyle_findings": {
+    "activity_impact": {
+      "Systolic BP": {
+        "improvement": "1.7",
+        "unit": "mmHg"
+      },
+      "Diastolic BP": {
+        "improvement": "0.9",
+        "unit": "mmHg"
+      },
+      "BMI": {
+        "improvement": "-0.5",
+        "unit": "kg/m\u00b2"
+      },
+      "Fasting Blood Sugar": {
+        "improvement": "-2.7",
+        "unit": "mg/dL"
+      }
+    }
+  }
+}

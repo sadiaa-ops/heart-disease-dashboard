@@ -1,0 +1,22 @@
+{
+  "Systolic BP": {
+    "Low Activity": 126.63983050847457,
+    "High Activity": 124.9735234215886,
+    "Difference": 1.666307086885979
+  },
+  "Diastolic BP": {
+    "Low Activity": 83.29148936170213,
+    "High Activity": 82.38085539714868,
+    "Difference": 0.9106339645534547
+  },
+  "BMI": {
+    "Low Activity": 27.936012765957447,
+    "High Activity": 28.439061876247507,
+    "Difference": -0.5030491102900605
+  },
+  "Fasting Blood Sugar (mg/dL)": {
+    "Low Activity": 116.46413502109705,
+    "High Activity": 119.1437125748503,
+    "Difference": -2.679577553753248
+  }
+}
